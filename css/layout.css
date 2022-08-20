@@ -289,7 +289,7 @@ ul#nav li.current a { color: #F06000; }
 }
 #resume .info {
    font: 18px 'opensans-bold', sans-serif;
-   color: #313131;
+   color: #000;
    margin-bottom: 0;
    margin-top: 9px;
 }
